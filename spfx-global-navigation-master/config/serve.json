@@ -1,0 +1,25 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/core-build/serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "serveConfigurations": {
+    "default": {
+      "pageUrl": "https://chitta.sharepoint.com/sites/BTG",
+      "customActions": {
+        "d70d31d6-43d3-4998-a6d4-7aecc9912c19": {
+          "location": "ClientSideExtension.ApplicationCustomizer",
+          "properties": { }
+        }
+      }
+    },
+    "spfxGlobalNavigation": {
+      "pageUrl": "https://chitta.sharepoint.com/sites/BTG",
+      "customActions": {
+        "d70d31d6-43d3-4998-a6d4-7aecc9912c19": {
+          "location": "ClientSideExtension.ApplicationCustomizer",
+          "properties": { }
+        }
+      }
+    }
+  }
+}
