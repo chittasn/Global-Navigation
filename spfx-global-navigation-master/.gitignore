@@ -1,31 +1,31 @@
 # Logs
-logs
-*.log
-npm-debug.log*
+#logs
+#*.log
+#npm-debug.log*
 
 # Dependency directories
-node_modules
+#node_modules
 
 # Build generated files
-dist
-lib
-solution
-temp
+#dist
+#lib
+#solution
+#temp
 
 # Coverage directory used by tools like istanbul
-coverage
+#coverage
 
 # OSX
-.DS_Store
+#.DS_Store
 
 # Visual Studio files
-.ntvs_analysis.dat
-.vs
-bin
-obj
+#.ntvs_analysis.dat
+#.vs
+#bin
+#obj
 
 # Resx Generated Code
-*.resx.ts
+#*.resx.ts
 
 # Styles Generated Code
-*.scss.ts
+#*.scss.ts

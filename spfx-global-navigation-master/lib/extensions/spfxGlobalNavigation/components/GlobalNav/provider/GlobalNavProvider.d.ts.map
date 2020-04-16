@@ -1,0 +1,1 @@
+{"version":3,"file":"GlobalNavProvider.d.ts","sourceRoot":"","sources":["../../../../../../src/extensions/spfxGlobalNavigation/components/GlobalNav/provider/GlobalNavProvider.ts"],"names":[],"mappings":"AAAA,OAAO,cAAc,MAAM,yBAAyB,CAAC;AAErD,OAAO,oBAAoB,CAAC;AAG5B,MAAM,CAAC,OAAO;;IAYC,mBAAmB,IAAI,OAAO,CAAC,cAAc,EAAE,CAAC;IAiB7D,OAAO,CAAC,0BAA0B;IAsBlC,OAAO,CAAC,cAAc;CAsBvB"}
